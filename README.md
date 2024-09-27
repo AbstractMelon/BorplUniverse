@@ -22,7 +22,4 @@ The Borpl Universe is full of unique species, cool technologies, and rich histor
 - **Current Year:** 3;7;5 (Eeping Time)
 - **Key Themes:** Exploration, cooperation, diversity
 - **Goal:** To understand and appreciate the unique cultures and histories in the Borpl Universe.
-
----
-
-Let me know if you need any changes or more sections!
+\
