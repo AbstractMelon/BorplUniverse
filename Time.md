@@ -16,7 +16,7 @@ The eeping system is a timekeeping method that simplifies traditional calendar s
 
 **Current Date Example:**
 - As of September 27, 2024, the date is expressed as:
-  - **Eep 0, Yorp 0, Yeep 0**
+  - **Eep 0, Yorp 0, Yeep 0** or **0;0;0**
 
 **Conversion from Old Time:**
 - To convert traditional dates to the eeping system:
